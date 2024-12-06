@@ -45,6 +45,8 @@ npm install
 node index.js
 
 The server will run at http://localhost:5000
+
+
 ### **Frontend Setup**
 
 cd ../frontend
@@ -52,7 +54,9 @@ cd ../frontend
 npm install
 
 npm start
+
 The application will open in your default browser at http://localhost:3000.
+
 ## Usage Instructions
 
 1. **Open the application**:
