@@ -29,33 +29,34 @@ This is a web-based application to assist users in finding roommates and/or apar
 
 ---
 
-### **1. Clone the Repository**
+## 1. Clone the Repository
 Run the following command in your terminal:
-
+```bash
 git clone https://github.com/Harshithasagili/Roommate-Fin.git
 cd Roommate-Fin
 
-### **Backend Setup**
+1. Navigate to the backend directory:
+   ```bash
+   cd backend
+2. Install the dependencies:
+   ```bash
+   npm install
+3. Start the server:
+   ```bash
+   node index.js
+ The server will run at [http://localhost:5000](http://localhost:5000)
 
-cd backend
+1. Navigate to the frontend directory:
+   ```bash
+   cd ../frontend
+2. Install the dependencies:
+   ```bash
+   npm install
+3. Start the frontend development server:
+   ```bash
+   npm start
+ The application will open in your default browser at [http://localhost:3000](http://localhost:3000).
 
-
-npm install
-
-node index.js
-
-The server will run at http://localhost:5000
-
-
-### **Frontend Setup**
-
-cd ../frontend
-
-npm install
-
-npm start
-
-The application will open in your default browser at http://localhost:3000.
 
 ## Usage Instructions
 
