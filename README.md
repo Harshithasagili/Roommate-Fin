@@ -4,7 +4,7 @@ This is a web-based application to assist users in finding roommates and/or apar
 
 ---
 
-## **Features**
+## Features
 1. Submit user details like name, phone number, budget, preferences, and search type.
 2. View a list of submitted roommates.
 3. Form validation:
@@ -14,13 +14,13 @@ This is a web-based application to assist users in finding roommates and/or apar
 
 ---
 
-## **Project Structure**
-- `backend/`: Contains the server code (Node.js with Express).
-- `frontend/`: Contains the client-side code (React.js).
+## Project Structure
+- backend/: Contains the server code (Node.js with Express).
+- frontend/: Contains the client-side code (React.js).
 
 ---
 
-## **Setup Instructions**
+## Setup Instructions
 
 ### Prerequisites
 - Install [Node.js](https://nodejs.org/) (v16 or above).
@@ -31,7 +31,7 @@ This is a web-based application to assist users in finding roommates and/or apar
 
 ## 1. Clone the Repository
 Run the following command in your terminal:
-```bash
+bash
 git clone https://github.com/Harshithasagili/Roommate-Fin.git
 cd Roommate-Fin
 
@@ -40,17 +40,16 @@ cd Roommate-Fin
 ## 2. Backend Setup
 In the backend directory, run the following commands:
 
-```bash
-cd backend
+bash
+cd ../backend
 npm install
 node index.js
 The server will run at http://localhost:5000.
 
-
 ## 3. Frontend Setup
 In the frontend directory, run the following commands:
 
-```bash
+bash
 cd ../frontend
 npm install
 npm start
@@ -58,17 +57,17 @@ The application will open in your default browser at http://localhost:3000.
 
 ## Usage Instructions
 
-1. **Open the application**:
+1. Open the application:
    - Frontend: [http://localhost:3000](http://localhost:3000)
    - Backend: [http://localhost:5000](http://localhost:5000)
 
-2. **Fill out the form**:
+2. Fill out the form:
    - Provide your name, phone number, budget, and preferences.
    - Choose your search type (roommate only or roommate and apartment both).
-   - Click **"Submit"**.
+   - Click "Submit".
 
-3. **View available roommates**:
-   - Scroll down to the **"Available Roommates"** section to see the list of submitted roommates.
+3. View available roommates:
+   - Scroll down to the "Available Roommates" section to see the list of submitted roommates.
 
 
 
