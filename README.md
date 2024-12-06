@@ -43,7 +43,7 @@ cd Roommate-Fin
 In the backend directory, run the following commands:
 
 ```bash
-cd ..backend
+cd backend
 npm install
 node index.js
 ```
@@ -53,7 +53,7 @@ The server will run at http://localhost:5000.
 In the new terminal in VS Code simultaneously,In the frontend directory, run the following commands:
 
 ```bash
-cd ..frontend
+cd frontend
 npm install
 npm start
 ```
