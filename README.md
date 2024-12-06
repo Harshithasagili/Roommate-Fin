@@ -35,11 +35,17 @@ Run the following command in your terminal:
 git clone https://github.com/Harshithasagili/Roommate-Fin.git
 cd Roommate-Fin
 
+---
+
 ## 2. Backend Setup
+In the backend directory, run the following commands:
 
-In the backend directory, follow these steps:
+```bash
+cd backend
+npm install
+node index.js
 
-1. Navigate to the backend directory:
-   ```bash
-   cd backend
+
+
+
 
