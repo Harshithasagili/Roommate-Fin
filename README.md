@@ -44,7 +44,7 @@ cd Roommate-Fin
 3. Start the server:
    ```bash
    node index.js
- The server will run at [http://localhost:5000](http://localhost:5000)
+4. The server will run at [http://localhost:5000](http://localhost:5000)
 
 1. Navigate to the frontend directory:
    ```bash
@@ -55,7 +55,7 @@ cd Roommate-Fin
 3. Start the frontend development server:
    ```bash
    npm start
- The application will open in your default browser at [http://localhost:3000](http://localhost:3000).
+4. The application will open in your default browser at [http://localhost:3000](http://localhost:3000).
 
 
 ## Usage Instructions
