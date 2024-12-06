@@ -30,7 +30,7 @@ This is a web-based application to assist users in finding roommates and/or apar
 ---
 
 ## 1. Clone the Repository
-Run the following command in your terminal:
+Run the following command in your VS Code terminal in any new folder created:
 
 ```bash
 git clone https://github.com/Harshithasagili/Roommate-Fin.git
