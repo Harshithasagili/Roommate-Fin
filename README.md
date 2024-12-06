@@ -31,7 +31,7 @@ This is a web-based application to assist users in finding roommates and/or apar
 
 ### **1. Clone the Repository**
 Run the following command in your terminal:
-```bash
+
 git clone https://github.com/Harshithasagili/Roommate-Fin.git
 cd Roommate-Fin
 
